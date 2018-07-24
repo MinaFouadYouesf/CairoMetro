@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@android:color/darker_gray"
+    tools:context=".MetroLines">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Cairo Metro"
+    android:gravity="center"
+    android:textSize="40dp"
+android:textColor="@color/yellow"    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Metro Lines"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/yellow"
+        />
+
+    <Button
+        android:id="@+id/firstLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_red_dark"
+        android:text="First Line"
+        android:textColor="@android:color/white"
+        android:onClick="displayLines"
+        />
+
+    <Button
+        android:id="@+id/secondLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#ddff22"
+        android:text="Second Line"
+        android:onClick="displayLines"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/thirdLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#08b22a"
+        android:text="Third Line"
+        android:onClick="displayLines"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

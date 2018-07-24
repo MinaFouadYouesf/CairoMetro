@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Cairo Metro</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="firstLine1">
+        <item>New Marg (first Line)</item>
+        <item>El Marg (first Line)</item>
+        <item>Azbet El Nakhel (first Line)</item>
+        <item>Ain Shames (first Line) </item>
+        <item>El Matrya (first Line)</item>
+        <item>Helmyt El zayton (first Line)</item>
+        <item>Hadayaa El Zayton (first Line)</item>
+        <item>Sarya El Koba (first Line)</item>
+        <item>Hammat El Koba (first Line)</item>
+        <item>Kobry El Koba (first Line)</item>
+        <item>Manshiet El Sadr (first Line)</item>
+        <item>El Demrdash (first Line)</item>
+        <item>Ghamra (first Line)</item>
+        <item>El Shohada (first Line)</item>
+        <item>Ahmed Orabi (first Line)</item>
+        <item>Naser (first Line)</item>
+        <item>Saddat (first Line)</item>
+        <item>Saad Zaghlol (first Line)</item>
+        <item>El Sayeda Zeinb (first Line)</item>
+        <item>El Malk El Saleh (first Line)</item>
+        <item>Mari Gergis (first Line)</item>
+        <item>El Zahraa (first Line)</item>
+        <item>dar El Salam (first Line)</item>
+        <item>haddayk El Maadi (first Line)</item>
+        <item>El Maadi (first Line)</item>
+        <item>Thaknat El Maadi  (first Line)</item>
+        <item> Tora El Balad (first Line)</item>
+        <item>Kozzika (first Line)</item>
+        <item>Tora Al-Asmant (first Line)</item>
+        <item>El Masaara (first Line)</item>
+        <item>Hadaya Helwan (first Line)</item>
+        <item>Wadi Hoof (first Line)</item>
+        <item>Helwan University (first Line)</item>
+        <item>Ain Helwan (first Line)</item>
+        <item> Helwan (first Line)</item>
+    </string-array>
+
+    <string-array name="secondLine2">
+        <item>Shubra (second Line)</item>
+        <item>Kolyet El Zeraat (second Line) </item>
+        <item>El Mazallat (second Line) </item>
+        <item>El Khalafawi (second Line)</item>
+        <item>st. Teresa (second Line)</item>
+        <item>Rod El Farag (second Line)</item>
+        <item>Massara (second Line)</item>
+        <item>El Shohada (second Line)</item>
+        <item>Atatba (second Line)</item>
+        <item>M.Naguib (second Line)</item>
+        <item>Saddat (second Line)</item>
+        <item>Opera (second Line)</item>
+        <item>Dokki (second Line)</item>
+        <item>El Bohoos (second Line)</item>
+        <item>Cairo University (second Line)</item>
+        <item>Faysal (second Line)</item>
+        <item>Giza (second Line)</item>
+        <item>Omm El Misryeen (second Line)</item>
+        <item>Sakiet Mekki (second Line)</item>
+        <item>El Monib (second Line)</item>
+    </string-array>
+    <string-array name="thirdLine3">
+        <item>Atatba (third Line)</item>
+        <item>Bab El Sharia (third Line)</item>
+        <item>El Geish (third Line)</item>
+        <item>Abdou pasha (third Line)</item>
+        <item>Abbassiya (third Line)</item>
+        <item>Cairo Fairgrounds (third Line) </item>
+        <item>Cairo Stadium (third Line)</item>
+        <item>Kolyet El Banat (third Line) </item>
+        <item>Al Ahram (third Line)</item>
+    </string-array>
+    <string name="title_activity_maps_activitys">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
